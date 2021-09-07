@@ -148,4 +148,4 @@ if __name__ == "__main__":
         quit()
     # Run the bot instance
     bot = ModerationBot()
-    bot.run(token)
+    bot.run("ODgzMzE0NjY1ODEwMTY5ODg4.YTII4w.ifHzAEqfJ9XyfXa3EqBv1_WFwyM")
